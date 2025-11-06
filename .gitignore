@@ -1,5 +1,6 @@
 # 🐍 Python
 __pycache__/
+test*.py
 *.py[cod]
 *.pyo
 *.pyd
@@ -69,3 +70,4 @@ ollama_cache/
 # 🧪 Jupyter / experiments
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+!shore_db.cp312-win_amd64.pyd
